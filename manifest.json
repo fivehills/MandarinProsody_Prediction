@@ -1,0 +1,15 @@
+{
+  ".gitignore": "e8d1b0d5c5d3ed9589aeb7b283470c8433e6a2ac2dac857ce3ea72e3c4a224aa",
+  "README.md": "dd2e91b87b48b02e403f035be63f4b97976dc7c9dde78f6236755e4c244ca873",
+  "data/data_dictionary.csv": "b27a92a850262a5bc833d021c7de0313febd4135bc2f0e1e2f522ad8c500a1c5",
+  "data/example_features.csv": "4c5c4238b4004c22f1fc8ebaba5e6339f5ad5c91c5774ba3a883b002b88ff3bc",
+  "results/contrasts.csv": "9fa720c4106ec5d79763d2e4cb4b3f69aff3e28f8ba915485a4e3b40483f758d",
+  "results/cv_summary.csv": "0cde1c0ff1f23e8c00695182b6aeb49f5908a990c74b1e5d091a9d6f101aca02",
+  "results/full_contrasts.csv": "c06c45efb7761127e71a6372fb0fc3d74986534f537efe04c7a3c1ff363e7f49",
+  "results/full_results.csv": "c9d6a5da445289bd2f5fbef23473ff7d7d285450c839a6f8ad260ea1ad0df264",
+  "results/results.csv": "7cf5068c7ce8eb485e1184027ab43dcb17b790b038283484e7919d08a3a8bd1e",
+  "scripts/esd/audit_esd_rq3.R": "535c65add86cadbcffdaddfe3f16316cfc6d03f999578918a932472b357623a4",
+  "scripts/esd/build_esd_metric_master.py": "d6e7584a1afa2cc8d7c7d8e57b48c606b405c08253e00f15c5bde633a9a5b74c",
+  "scripts/esd/README.md": "ade1c23cc34bf668a72b9985f07eec28e17f2dc15217773dfc285023a7106c38",
+  "scripts/esd/run_esd_models.R": "5b4bcac233fdeac552aaaf243163eada4be6d2e05b5e24b0f72c2da17dac12ae"
+}

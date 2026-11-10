@@ -1,0 +1,5 @@
+*.rds
+*.RData
+__pycache__/
+.DS_Store
+results/full/
